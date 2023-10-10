@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: trupti-nirgulkar12.github.io/trupti
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: trupti package
+site-title: `trupti`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: trupti-nirgulkar12.github.io/trupti
+current-package: trupti-nirgulkar12.github.io/trupti
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of trupti.
 
 -- display-type:
-types: $<repo_name>.types
+types: $trupti.types
 
 
 -- end: site-doc.doc-home
